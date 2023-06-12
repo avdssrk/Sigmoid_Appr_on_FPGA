@@ -1,2 +1,2 @@
-# Sigmoid_Appr_on_FPGA
-Implementation of Piece-wise Linear Sigmoid Function approximation of Virtex-6
+# Piece Wise Linear aprroximation of sigmoid function
+Sigmoid function is most commonly used activation function in Neural Networks. 
