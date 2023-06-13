@@ -5,7 +5,13 @@ Sigmoid function is most commonly used activation function in Neural Networks.
 The output for different inputs in Vivado are shown below.
 
 <p align="center">
-  <img src="https://github.com/avdssrk/Sigmoid_Appr_on_FPGA/blob/main/images/verilog_results.png" width="800" title="Sigmoid results">
+  <img src="https://github.com/avdssrk/Sigmoid_Appr_on_FPGA/blob/main/images/verilog_results.png" width="1300" title="Sigmoid results">
+</p>
+
+Results of approximation in MATLAB is shown below.
+
+<p align="center">
+  <img src="https://github.com/avdssrk/Sigmoid_Appr_on_FPGA/blob/main/images/matlab_results.png" width="1300" title="Sigmoid results">
 </p>
 
 
