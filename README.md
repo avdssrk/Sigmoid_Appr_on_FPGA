@@ -32,11 +32,10 @@ The differentation of the Sigmoid approximation is plotted.
 # Utilization Report
 The usage of different blocks on Virtex-6 is listed below.
 
-<p align="center">
   | Slice Logic                   | Used |
   |-------------------------------|------|
   | Number of Slice LUTs          | 30   |
   | Number of occupied Slices     | 10   |
   | Number of LUT Flip Flop pairs | 30   |
   | Number of bonded IOBs         | 32   |
-</p>
+  
