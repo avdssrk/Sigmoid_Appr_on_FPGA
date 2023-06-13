@@ -1,6 +1,19 @@
 # Piece Wise Linear aprroximation of sigmoid function
 Sigmoid function is most commonly used activation function in Neural Networks. 
 
+# Comparision of the plots
+The approximated function is plotted along with the original function.
+
+<p align="center">
+  <img src="https://github.com/avdssrk/Sigmoid_Appr_on_FPGA/blob/main/images/Sigmoid_matlab.png" width="800" title="Sigmoid approximation">
+</p>
+
+The differentation of the Sigmoid approximation is plotted.
+
+<p align="center">
+  <img src="https://github.com/avdssrk/Sigmoid_Appr_on_FPGA/blob/main/images/Sig_diff.png" width="800" title="Sigmoid diff approximation">
+</p>
+
 
 # Utilization Report
 The usage of different blocks on Virtex-6 is listed below.
