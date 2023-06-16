@@ -33,10 +33,9 @@ Results of approximation in MATLAB is shown below.
 
 The original sigmoid values without any approximation is shown below.
 
-<p align="center">
-  <img src="https://github.com/avdssrk/Sigmoid_Appr_on_FPGA/blob/main/images/org_sig.png" width="1300" title="Sigmoid results">
-</p>
-
+| -4     | -3.5   | -3     | -2.5   | -2     | -1.5     | -1     | -0.5   | 0      | 0.5    | 1      | 1.5    | 2      | 2.5    | 3      | 3.5    | 4      |
+|--------|--------|--------|--------|--------|----------|--------|--------|--------|--------|--------|--------|--------|--------|--------|--------|--------|
+| 0.0180 | 0.0293 | 0.0474 | 0.0759 | 0.1192 | 0.1824 | 0.2689 | 0.3775 | 0.5000 | 0.6225 | 0.7311 | 0.8176 | 0.8808 | 0.9241 | 0.9526 | 0.9707 | 0.9820 |
 
 # Comparision of the plots
 The approximated function is plotted along with the original function.
