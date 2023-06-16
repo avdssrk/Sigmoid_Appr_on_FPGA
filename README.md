@@ -34,7 +34,7 @@ Results of approximation in MATLAB is shown below.
 The original sigmoid values without any approximation is shown below.
 
 <p align="center">
-  <img src="https://github.com/avdssrk/Sigmoid_Appr_on_FPGA/blob/main/images/org_sigm.png" width="1800" title="Sigmoid results">
+  <img src="https://github.com/avdssrk/Sigmoid_Appr_on_FPGA/blob/main/images/org_sigm.png" width="3000" title="Sigmoid results">
 </p>
 
 
