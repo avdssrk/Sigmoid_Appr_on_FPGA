@@ -1,6 +1,20 @@
 # Piece Wise Linear aprroximation of sigmoid function
 Sigmoid function is most commonly used activation function in Neural Networks. 
 
+
+# Approximation of sigmoid function
+The approximated expression of the sigmoid function is given below:
+```math
+y(x) = \left\{\begin{matrix}
+0 & x \leq -5 \\
+0.15625 + x*0.03125 & -5 < x \leq -2.375 \\ 
+0.375 + x*0.125 & -2.375< x \leq -1 \\ 
+0.5 + x*0.25 & -1 < x \leq 1\\ 
+0.625 + x*0.125 & 1< x\leq 2.375 \\ 
+0.84375 + x*0.03125 & 2.375 < x \leq 5 \\ 
+1 & x>5 \\ 
+\end{matrix}\right. 
+```
 # Results
 The output for different inputs in Vivado are shown below.
 
