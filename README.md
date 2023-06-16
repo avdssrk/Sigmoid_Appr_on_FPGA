@@ -1,5 +1,8 @@
 # Piece Wise Linear aprroximation of sigmoid function
-Sigmoid function is most commonly used activation function in Neural Networks. 
+Sigmoid function is most commonly used activation function in Neural Networks. The expression for the sigmoid function is:
+```math
+y(x) = \frac{1}{1 + e^{-x}}
+```
 
 
 # Approximation of sigmoid function
