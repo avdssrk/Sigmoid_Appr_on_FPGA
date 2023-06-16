@@ -31,6 +31,12 @@ Results of approximation in MATLAB is shown below.
   <img src="https://github.com/avdssrk/Sigmoid_Appr_on_FPGA/blob/main/images/matlab_results.png" width="1300" title="Sigmoid results">
 </p>
 
+The original sigmoid values without any approximation is shown below.
+
+<p align="center">
+  <img src="https://github.com/avdssrk/Sigmoid_Appr_on_FPGA/blob/main/images/matlab_results.png" width="1300" title="Sigmoid results">
+</p>
+
 
 # Comparision of the plots
 The approximated function is plotted along with the original function.
