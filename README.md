@@ -3,7 +3,7 @@ Sigmoid function is most commonly used activation function in Neural Networks. T
 ```math
 y(x) = \frac{1}{1 + e^{-x}}
 ```
-
+Implementing this type of function on FPGA or any digital system needs very huge resources as the equation varies from $` +\infty`$ to $` -\infty`$. Also the value need more precision we need more bits to store the value. So, at the cost of accuracy we try to approximate the equation, so that it can we easily implemented on FPGA.
 
 # Approximation of sigmoid function
 The approximated expression of the sigmoid function is given below:
