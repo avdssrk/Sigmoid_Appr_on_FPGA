@@ -18,6 +18,10 @@ y(x) = \left\{\begin{matrix}
 1 & x>5 \\ 
 \end{matrix}\right. 
 ```
+
+To implement this approximation, **multipliers are not required**. Simply by left shifting the input x, we get the result.
+
+
 # Results
 The output for different inputs in Vivado are shown below.
 
